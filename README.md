@@ -10,4 +10,4 @@ Mark as Completed: Mark todos as completed to track your progress.
 Sort Todos: Sort todos based on their completion status for better organization.
 Change Themes: Personalize your Todo List with different themes to suit your preference.
 
-![my-todo](images/Screen Shot .png)
+![my-todo](https://github.com/DanL-code/my-todo/blob/main/images/ScreenShot.png)
