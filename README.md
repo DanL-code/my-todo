@@ -9,3 +9,5 @@ Delete Todo: Remove todos from your list that are no longer relevant.
 Mark as Completed: Mark todos as completed to track your progress.
 Sort Todos: Sort todos based on their completion status for better organization.
 Change Themes: Personalize your Todo List with different themes to suit your preference.
+
+![my-todo](images/Screen Shot .png)
